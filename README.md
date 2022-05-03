@@ -4,9 +4,13 @@ Dino Game:
 
   AntiGameOver: ```Runner.instance_.gameOver = () => {}```
   
+  EndGame: ```Runner.prototype.gameOver = dummy```
+  
   SetSpeed: ```Runner.instance_.currentSpeed = ?```
   
   DistanceRan: ```Runner.instance_.distanceRan = ?``` div by 40
+  
+  Jump: ```Runner.instance_.tRex.setJumpVelocity(10)```
   
 YoHoHo.io
 
