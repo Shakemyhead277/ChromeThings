@@ -1,2 +1,3 @@
 # ChromeThings
-idfk
+
+antiGameOver: ```Runner.instance_.gameOver = () => {}```
