@@ -4,6 +4,8 @@ Dino Game:
 
   AntiGameOver: ```Runner.instance_.gameOver = () => {}```
   
+  SetSpeed: ```Runner.instance_.currentSpeed = ?```
+  
 YoHoHo.io
 
   Coins: ```localStorage.setItem("coinsOwned", );```
