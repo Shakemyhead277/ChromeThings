@@ -12,7 +12,7 @@ Dino Game:
   
   Jump: ```Runner.instance_.tRex.setJumpVelocity(10)```
   
-YoHoHo.io
+YoHoHo.io:
 
   Coins: ```localStorage.setItem("coinsOwned", );```
   
@@ -29,4 +29,5 @@ YoHoHo.io
 Lunar Lander:
 
   fuel: ```lander.fuel = ?```
+  
   setScore: ```score = ?```
