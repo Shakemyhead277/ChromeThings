@@ -4,7 +4,7 @@ Dino Game:
 
   AntiGameOver: ```Runner.instance_.gameOver = () => {}```
   
-  EndGame: ```Runner.prototype.gameOver = dummy```
+  EndGame: ```Runner.instance_.gameOver()```
   
   SetSpeed: ```Runner.instance_.currentSpeed = ?```
   
