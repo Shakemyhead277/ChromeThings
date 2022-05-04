@@ -38,4 +38,8 @@ Lunar Lander:
 
 Cookie Clicker:
 
+  openSesame: ```Game.OpenSesame()```
+
   cookies: ```Game.cookies = ?```
+  
+  lumps: ```Game.lumps = ?```
