@@ -35,3 +35,7 @@ Lunar Lander:
   endGame: ```setCrahsed()```
   
   neverCrash: ```setCrashed = () => {}```
+
+Cookie Clicker:
+
+  cookies: ```Game.cookies = ?```
