@@ -8,7 +8,7 @@ Dino Game:
   
   SetSpeed: ```Runner.instance_.currentSpeed = ?```
   
-  DistanceRan: ```Runner.instance_.distanceRan = ?``` div by 40
+  DistanceRan: ```Runner.instance_.distanceRan = ?```
   
   Jump: ```Runner.instance_.tRex.setJumpVelocity(?)```
   
