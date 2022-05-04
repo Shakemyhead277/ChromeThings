@@ -31,3 +31,5 @@ Lunar Lander:
   fuel: ```lander.fuel = ?```
   
   setScore: ```score = ?```
+  
+  endGame: ```setCrahsed()```
