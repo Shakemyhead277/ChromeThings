@@ -33,3 +33,5 @@ Lunar Lander:
   setScore: ```score = ?```
   
   endGame: ```setCrahsed()```
+  
+  neverCrash: ```setCrashed = () => {}```
