@@ -25,3 +25,7 @@ YoHoHo.io
   PetLevel: ```localStorage.setItem("playerPetLevel", );``` 1 to 14
   
   Fix: ```localStorage.clear()```
+
+Lunar Lander:
+
+  fuel: ```lander.fuel = ?```
