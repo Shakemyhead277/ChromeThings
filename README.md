@@ -29,3 +29,4 @@ YoHoHo.io
 Lunar Lander:
 
   fuel: ```lander.fuel = ?```
+  setScore: ```score = ?```
