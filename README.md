@@ -10,19 +10,19 @@ Dino Game:
   
   DistanceRan: ```Runner.instance_.distanceRan = ?``` div by 40
   
-  Jump: ```Runner.instance_.tRex.setJumpVelocity(10)```
+  Jump: ```Runner.instance_.tRex.setJumpVelocity(?)```
   
 YoHoHo.io:
 
-  Coins: ```localStorage.setItem("coinsOwned", );```
+  Coins: ```localStorage.setItem("coinsOwned", ?);```
   
-  Xp: ```localStorage.setItem("playerXP", );```
+  Xp: ```localStorage.setItem("playerXP", ?);```
   
-  Skin: ```localStorage.setItem("playerSkin", );```  1 to 35
+  Skin: ```localStorage.setItem("playerSkin", ?);```  1 to 35
   
-  PetXp: ```localStorage.setItem("playerPet", );``` 1 to 9
+  PetXp: ```localStorage.setItem("playerPet", ?);``` 1 to 9
   
-  PetLevel: ```localStorage.setItem("playerPetLevel", );``` 1 to 14
+  PetLevel: ```localStorage.setItem("playerPetLevel", ?);``` 1 to 14
   
   Fix: ```localStorage.clear()```
 
