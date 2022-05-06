@@ -2,7 +2,7 @@
 
 Dino Game:
 
-  AntiGameOver: ```Runner.instance_.gameOver = () => {}```
+  AntiGameOver: ```checkForCollision = () => {}```
   
   EndGame: ```Runner.instance_.gameOver()```
   
