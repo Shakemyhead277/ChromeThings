@@ -12,6 +12,8 @@ Dino Game:
   
   Jump: ```Runner.instance_.tRex.setJumpVelocity(?)```
   
+  idkBreakTheGame```Runner.instance_.tRex.config = () => {}```
+  
 YoHoHo.io:
 
   Coins: ```localStorage.setItem("coinsOwned", ?);```
