@@ -16,7 +16,7 @@ Dino Game:
   
   dropVelocity: ```Runner.instance_.tRex.config.DROP_VELOCITY = ?``` stay in negatives
   
-  noMoreObstacles: ```Horizon.prototype.addNewObstacle = () => {}```
+  noMoreObstacles: ```Horizon.prototype.addNewObstacle = () => {}``` only works with AntiGameOver hack
   
   fly: ```Runner.instance_.tRex.groundYPos = 10```
   
