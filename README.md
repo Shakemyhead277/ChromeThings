@@ -16,6 +16,8 @@ Dino Game:
   
   dropVelocity: ```Runner.instance_.tRex.config.DROP_VELOCITY = ?``` stay in negatives
   
+  noMoreObstacles: ```Horizon.prototype.addNewObstacle = () => {}```
+  
   fly: ```Runner.instance_.tRex.groundYPos = 10```
   
 YoHoHo.io:
