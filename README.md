@@ -12,7 +12,9 @@ Dino Game:
   
   Jump: ```Runner.instance_.tRex.setJumpVelocity(?)```
   
-  idkBreakTheGame```Runner.instance_.tRex.config = () => {}```
+  idkBreakTheGame: ```Runner.instance_.tRex.config = () => {}```
+  
+  dropVelocity: ```Runner.instance_.tRex.config.DROP_VELOCITY = ?``` stay in negatives
   
 YoHoHo.io:
 
