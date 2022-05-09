@@ -6,7 +6,7 @@ Dino Game:
 
   AntiGameOver: ```checkForCollision = () => {}``` works for only original dino game
   
-  EndGame: ```Runner.instance_.gameOver()```
+  EndGame: ```Runner.instance_.gameOver()``` does not work with AntiGameOver hack
   
   SetSpeed: ```Runner.instance_.currentSpeed = ?```
   
