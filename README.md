@@ -22,6 +22,8 @@ Dino Game:
   
   fly: ```Runner.instance_.tRex.groundYPos = 10```
   
+  setAcceleration: ```Runner.config.ACCELERATION = ?```
+  
 YoHoHo.io:
 
   Coins: ```localStorage.setItem("coinsOwned", ?);```
