@@ -55,3 +55,6 @@ Cookie Clicker:
   cookies: ```Game.cookies = ?```
   
   lumps: ```Game.lumps = ?```
+
+spend elon fortune:
+  setMoney: ```elonFortune = ?```
