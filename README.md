@@ -57,4 +57,5 @@ Cookie Clicker:
   lumps: ```Game.lumps = ?```
 
 spend elon fortune:
+
   setMoney: ```elonFortune = ?```
