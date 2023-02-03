@@ -1,0 +1,7 @@
+const json = localStorage.getItem('monkeymart_config');
+const obj = JSON.parse(json);
+let stri = prompt('coins', '0');
+let nc = obj.coins = parseInt(stri);
+let str = (JSON.stringify(obj));
+localStorage.setItem('monkeymart_config', str);
+location.reload();
