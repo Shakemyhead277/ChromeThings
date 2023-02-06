@@ -1,4 +1,4 @@
-//https://g.igroutka.ru/games/164/TbxXHpG4s8efPVaM/3/monkey_mart/
+//              https://g.igroutka.ru/games/164/TbxXHpG4s8efPVaM/3/monkey_mart/
 const json = localStorage.getItem('monkeymart_config');
 const obj = JSON.parse(json);
 let stri = prompt('coins', '0');
